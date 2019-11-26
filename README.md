@@ -4,7 +4,11 @@ This implementation does not include functionality for Growing GAN, but will soo
 See this paper for more details: https://arxiv.org/abs/1903.06048
 
 ## Image Samples
+Trained on Landscapes:
 ![Teaser image](./landscapes.png)
+
+Mixing Styles
+![Teaser image](./styles.png)
 
 ## Before Running
 Please ensure you have created the following folders:

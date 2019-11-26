@@ -7,7 +7,7 @@ See this paper for more details: https://arxiv.org/abs/1903.06048
 Trained on Landscapes:
 ![Teaser image](./landscapes.png)
 
-Mixing Styles
+Mixing Styles:
 ![Teaser image](./styles.png)
 
 ## Before Running
